@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Mosalah 👋
 
-<!--
-**Mosalah3618/Mosalah3618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in building scalable
+web applications and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 Java | Spring Boot | React.js
+- 🗄️ MySQL | PostgreSQL
+- 🔧 Hibernate | JPA | REST APIs
+- 🌱 Currently improving my Spring Boot & Full Stack skills
+- 🎯 Looking for Java Developer / Software Developer opportunities
+
+### 🛠️ Tech Stack
+
+**Languages**
+Java • JavaScript • HTML • CSS
+
+**Backend**
+Spring Boot • Hibernate • JPA • REST API
+
+**Frontend**
+React.js • Next.js • Tailwind CSS
+
+**Database**
+MySQL • PostgreSQL
+
+**Tools**
+Git • GitHub • VS Code • IntelliJ IDEA
+
+### 📌 Featured Projects
+
+- 🤖 AI Interview Mocker
+- 🚗 Car Marketplace Web App
+- 🛒 Amazon Clone
+- 🎮 Tic Tac Toe
+- 💱 Currency Converter
+
+### 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
+[Email](YOUR_EMAIL)
