@@ -40,5 +40,5 @@ Git • GitHub • VS Code • IntelliJ IDEA
 
 ### 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/mohammed-salah-shaikh-b03272316)
-[Email](salahshaikh1836@gmail.com)
+[LinkedIn]([www.linkedin.com/in/mohammed-salah-shaikh-b03272316](https://www.linkedin.com/in/mohammed-salah-shaikh-b03272316))
+[Email](mailto:salahshaikh1836@gmail.com)
